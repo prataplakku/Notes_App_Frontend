@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prataplakku/Simple-Notes-App/static/css/main.e6c13ad2.css",
+    "main.js": "/prataplakku/Simple-Notes-App/static/js/main.89921380.js",
+    "static/js/453.8ab44547.chunk.js": "/prataplakku/Simple-Notes-App/static/js/453.8ab44547.chunk.js",
+    "index.html": "/prataplakku/Simple-Notes-App/index.html",
+    "main.e6c13ad2.css.map": "/prataplakku/Simple-Notes-App/static/css/main.e6c13ad2.css.map",
+    "main.89921380.js.map": "/prataplakku/Simple-Notes-App/static/js/main.89921380.js.map",
+    "453.8ab44547.chunk.js.map": "/prataplakku/Simple-Notes-App/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.89921380.js"
+  ]
+}
